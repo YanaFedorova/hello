@@ -1,4 +1,7 @@
 hello
 =====
 
-first
+void main()
+{
+print("fgfgb\n");
+}
